@@ -1,0 +1,36 @@
+_repo: An-Introduction-to-the-Study-of-Comparative-Religion_31875
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jevons, F. B. (Frank Byron)
+    aliases:
+    - Jevons, Frank B.
+    - Jevons, Frank Byron
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '31260'
+    url: http://www.gutenberg.org/2009/agents/31260
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Byron_Jevons
+description: This 1916 work on "the science of religion" covers the evolution of religion
+  from an objective point of view, and is concerned with factual history, not with
+  what "ought to" have occurred. The author concerns himself with the value of different
+  religions in comparison with one another. Topics include immortality, magic, fetishism,
+  prayer, sacrifice, morality, and Christianity.
+gutenberg_issued: '2010-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Religion'
+tableOfContents: Introduction -- Immortality -- Magic -- Fetichism -- Prayer -- Sacrifice
+  -- Morality -- Christianity -- Appendix -- Bibliography -- Index.
+title: An Introduction to the Study of Comparative Religion
+url: http://www.gutenberg.org/ebooks/31875
